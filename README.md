@@ -1,8 +1,7 @@
 
 # A test for extract-text-webpack-plugin which seems to have a bug
 
-When multiple css files are required their order is not necessarily preserved in the extracted file. [Related Issue](https://github
-.com/webpack/extract-text-webpack-plugin/issues/52)
+When multiple css files are required their order is not necessarily preserved in the extracted file. [Related Issue](https://github.com/webpack/extract-text-webpack-plugin/issues/52)
 
 
 
