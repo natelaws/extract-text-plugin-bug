@@ -1,0 +1,16 @@
+{
+  "name": "extract-text-plugin-bug",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "",
+  "dependencies": {
+    "babel": "^4.6.6",
+    "babel-loader": "^4.0.0",
+    "css-loader": "^0.9.1",
+    "extract-text-webpack-plugin": "^0.3.8",
+    "sass-loader": "^0.3.1",
+    "style-loader": "^0.8.2",
+    "webpack": "^1.7.3"
+  }
+}
